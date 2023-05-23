@@ -1,3 +1,4 @@
+//Example -1 [Mars Calculator]
 fn main() {
 // We are Assigning a variable calculate_weight_on_mar but we don't have to set type of variable in rust as it is smart enough to detect the type of variable which is f32(float)
     let mut mars_weight = calculate_weight_on_mars(100.0);
